@@ -9,6 +9,7 @@ import Users from './collections/Users'
 import { Pages } from './collections/Pages'
 import { Media } from './collections/Media'
 import { BlogPosts } from './collections/BlogPosts'
+import { PageTemplates } from './collections/pageTemplates/PageTemplates'
 
 export default buildConfig({
   serverURL: 'http://localhost:4000',
@@ -21,7 +22,8 @@ export default buildConfig({
     Users,
     Pages,
     Media,
-    BlogPosts
+    BlogPosts,
+    PageTemplates,
   ],
   typescript: {
     outputFile: path.resolve(__dirname, 'payload-types.ts'),
