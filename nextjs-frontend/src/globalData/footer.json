@@ -1,0 +1,18 @@
+{
+  "bottomNavLinks": [
+    {
+      "label": "Privacy",
+      "link": "#",
+      "id": "65dbd4b8429eb27f6d5fcf63"
+    },
+    {
+      "label": "Legal",
+      "link": "#",
+      "id": "65dbd4c2429eb27f6d5fcf64"
+    }
+  ],
+  "globalType": "footer",
+  "createdAt": "2024-02-26T00:01:15.830Z",
+  "updatedAt": "2024-02-26T00:01:15.830Z",
+  "id": "65dbd4cba88790afe590c72c"
+}

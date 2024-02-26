@@ -1,0 +1,30 @@
+{
+  "logo": {
+    "id": "65dbd3e5a88790afe590c6c3",
+    "alt": "RC Logo",
+    "filename": "RC-Logo-Base-Blue.svg",
+    "mimeType": "image/svg+xml",
+    "filesize": 4408,
+    "width": 863.56,
+    "height": 277.07,
+    "createdAt": "2024-02-25T23:57:25.870Z",
+    "updatedAt": "2024-02-25T23:57:25.870Z",
+    "url": "http://localhost:4000/media/RC-Logo-Base-Blue.svg"
+  },
+  "NavLinks": [
+    {
+      "label": "Sample One",
+      "link": "/",
+      "id": "65dbd473429eb27f6d5fcf62"
+    },
+    {
+      "label": "Sample Two",
+      "link": "/sample-two",
+      "id": "65dbd3ef429eb27f6d5fcf61"
+    }
+  ],
+  "globalType": "header",
+  "createdAt": "2024-02-25T23:57:58.827Z",
+  "updatedAt": "2024-02-26T00:00:21.690Z",
+  "id": "65dbd406a88790afe590c6cb"
+}

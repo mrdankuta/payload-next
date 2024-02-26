@@ -1,6 +1,7 @@
 import { Hero } from '../blocks/Hero'
 import { TwoColumn } from '../blocks/TwoColumn'
 import { SimpleRichText } from '../blocks/SimpleRichText'
+import { RecentBlogPosts } from '../blocks/RecentBlogPosts'
 
 export const Pages = {
     slug: 'pages',
@@ -32,6 +33,7 @@ export const Pages = {
                 Hero,
                 TwoColumn,
                 SimpleRichText,
+                RecentBlogPosts,
             ]
         }
     ]

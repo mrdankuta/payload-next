@@ -9,6 +9,8 @@ import Users from './collections/Users'
 import { Pages } from './collections/Pages'
 import { Media } from './collections/Media'
 import { BlogPosts } from './collections/BlogPosts'
+import { Header } from './globals/Header'
+import { Footer } from './globals/Footer'
 
 export default buildConfig({
   serverURL: 'http://localhost:4000',
@@ -22,6 +24,10 @@ export default buildConfig({
     Pages,
     Media,
     BlogPosts
+  ],
+  globals: [
+    Header,
+    Footer,
   ],
   typescript: {
     outputFile: path.resolve(__dirname, 'payload-types.ts'),
